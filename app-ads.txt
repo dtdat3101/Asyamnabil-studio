@@ -2270,6 +2270,7 @@ rubiconproject.com, 27714, RESELLER, 0bfd66d529a55807
 
 
 #BigoAds
+bigo.sg,2jah0t8tgz,DIRECT
 bigo.sg, q9hk29ki8d, RESELLER
 indexexchange.com, 216592, RESELLER, 50b1c356f2c5c8fc
 triplelift.com, 14819, RESELLER, 6c33edb13117fd86

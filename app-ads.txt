@@ -2270,6 +2270,19 @@ rubiconproject.com, 27714, RESELLER, 0bfd66d529a55807
 
 
 #BigoAds
+conversantmedia.com, 101349, RESELLER, 03113cd04947736d
+indexexchange.com, 220189, RESELLER, 50b1c356f2c5c8fc
+krushmedia.com, AJxF6R719a9M6CaTvK, RESELLER
+freewheel.tv, 548888-r-524565, RESELLER, 74e8e47458f74754
+freewheel.tv, 548888-r-523319, RESELLER, 74e8e47458f74754
+freewheel.tv, sg1332502, RESELLER, 74e8e47458f74754
+insticator.com, e2d3e33c-9911-477a-8ae2-f059870c67c0, RESELLER, b3511ffcafb23a32
+video.unrulymedia.com, 839999282, RESELLER, 98c21ef9a666c68b
+monetrix.ai, 10688, RESELLER
+onetag.com, 970b4089dd78c5f, RESELLER
+e-planning.net, 79ded3cfca3d3b78,RESELLER, c1ba615865ed87b2
+bold-win.com, 1189, RESELLER, 71746737d0bab951
+bluexad.ai, 1993610319863222272, RESELLER
 bigo.sg,2jah0t8tgz,DIRECT
 bigo.sg, q9hk29ki8d, RESELLER
 indexexchange.com, 216592, RESELLER, 50b1c356f2c5c8fc
